@@ -3,3 +3,6 @@
 function ganga(){
 	console.log('This is Ganga');
 }
+function Bhima(){
+	        console.log('This is omkar');
+}
